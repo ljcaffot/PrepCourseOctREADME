@@ -1,2 +1,1 @@
-# PrepCourseOctREADME
-Este es un repositorio de prueba del modulo 2 de henry, octubre con opcion README file
+Este es un proyecto de prueba y clonarlo desde githutb a mi computadora.
